@@ -6,6 +6,13 @@ confidence-scored pseudo-labels from multiscale consensus clustering. Stage B
 uses this pseudo-supervision to refine the graph encoder before final K-means
 clustering.
 
+## System overview
+
+![scCoRe system overview: graph-contrastive representation learning, consensus pseudo-labeling, confidence-aware refinement, and final clustering](images/system_overview.png)
+
+*Overview of the scCoRe workflow, from the preprocessed expression matrix to
+the final cell embedding and clustering assignments.*
+
 ## Installation
 
 Python 3.12 is recommended. The experiments reported in the manuscript used
@@ -104,10 +111,10 @@ ribosomal filtering and batch correction are not performed by this workflow.
 
 The scCoRe source code, including command and code examples in the
 documentation, is distributed under the [BSD 3-Clause License](LICENSE). The
-textual documentation is distributed under the [Creative Commons Attribution-
-NonCommercial 4.0 International License](LICENSE-DOCS.md). Datasets are not
-covered by these licenses and remain subject to the terms specified by their
-respective providers.
+documentation and original figures are distributed under the [Creative Commons
+Attribution-NonCommercial 4.0 International License](LICENSE-DOCS.md). Datasets
+are not covered by these licenses and remain subject to the terms specified by
+their respective providers.
 
 ## Acknowledgments
 

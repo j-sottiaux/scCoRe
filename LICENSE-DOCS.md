@@ -2,9 +2,9 @@
 
 Copyright (c) 2026, Julien Sottiaux, Aurélien Chepy, Vincent Sobanski and Zaineb Chelly Dagdia.
 
-The textual documentation in this repository, including `README.md` and
-`data/README.md`, is licensed under the Creative Commons Attribution-
-NonCommercial 4.0 International License (CC BY-NC 4.0).
+The documentation and original figures in this repository, including
+`README.md`, `data/README.md`, and `images/`, are licensed under the Creative
+Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 To view a copy of this license, visit
 <https://creativecommons.org/licenses/by-nc/4.0/>.
