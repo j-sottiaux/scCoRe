@@ -113,9 +113,8 @@ respective providers.
 
 This study was supported by the European Union's Horizon Europe Research and
 Innovation Programme under the Marie Skłodowska-Curie Actions (MSCA), Grant
-Agreement No. 101236749, and the Initiative of Excellence of the University of
+Agreement No. 101236749 (https://thunder-msca-se.univ-lille.fr/#top), and the Initiative of Excellence of the University of
 Lille (R-CDP-25-002-PRIME-NEXT-GEN).
 
 ## Submission
-scCoRe has been submitted to the IEEE BigData 2026 Special Session on
-Healthcare Data.
+scCoRe has been submitted to the 2026 IEEE International Conference on Big Data --  Special Session: Healthcare Data
