@@ -24,5 +24,3 @@ Dataset files must not be committed to the repository.
 | Melanoma | `Melanoma_5K.h5` | 9 |
 | Young | `Young.h5` | 11 |
 
-The remaining five datasets in the Zenodo archive were not part of the
-ten-dataset benchmark reported in the manuscript.
