@@ -1,6 +1,6 @@
 # Data
 
-The 15 scRNA-seq datasets used with scCoRe are available from Zenodo:
+The 10 scRNA-seq datasets used with scCoRe are available from Zenodo:
 
 https://doi.org/10.5281/zenodo.15272789
 
